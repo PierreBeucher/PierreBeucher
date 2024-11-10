@@ -35,137 +35,100 @@ Regular Open Source contributor, including these awesome projects:
 
 ## 🛠️ My Tech Stack
 
-<style>
-  .flex-container {
-    display: flex;
-    max-width: 320px; /* Set maximum width for the full layout */
-    gap: 5px; /* Add space between the sections */
-    padding: 3px;
-    paddiing-bottom: 10px;
-  }
+<b>Kubernetes and Container</b>
 
-  .section-box {
-    display: flex;
-    align-items: center;
-    padding: 3px;
-    padding-left: 7px;
-    padding-right: 7px;
-    background-color: #f1f1f1;
-    border-radius: 4px;
-    flex-grow: 1;
-    justify-content: space-around; /* Evenly space icons within each section */
-  }
-</style>
+<div style="display: flex;">
+  
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"/>
 
-**Cloud & DevOps**
-
-<div class="flex-container">
-  <!-- Containers: 2 icons (2/7 of the width) -->
-  <div class="section-box" style="flex: 2;">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" height="35" alt="kubernetes logo" />
-  </div>
-  <!-- Kubernetes Tools: 5 icons (5/7 of the width) -->
-  <div class="section-box" style="flex: 5;">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/helm.svg" height="35" alt="helm logo" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Traefik_Logo.svg" height="35" alt="traefik logo" />
-      <img src="https://cdn.simpleicons.org/istio/466BB0" height="35" alt="istio logo" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" height="35" alt="argocd logo" />
-      <img src="https://raw.githubusercontent.com/fluxcd/website/refs/heads/main/assets/icons/logo.svg" height="35" alt="fluxcd logo" />
-  </div>
 </div>
 
-<div class="flex-container">
-    <!-- Cloud Providers -->
-    <div class="section-box"  style="flex: 3;">
-        <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=gcp" height="35" alt="googlecloud logo" />
-    </div>
-    <!-- Infrastructure as Code -->
-    <div class="section-box"  style="flex: 4;">
-        <img src="https://www.pulumi.com/logos/brand/avatar-on-black.svg" height="35" alt="pulumi logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="35" alt="terraform logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" alt="ansible logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="35" alt="nixos logo" />
-    </div>
+<div style="display: flex;">
+
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/helm.svg" height="45" alt="helm logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Traefik_Logo.svg" height="45" alt="traefik logo"/>
+  <img src="https://cdn.simpleicons.org/istio/466BB0" height="45" alt="istio logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" height="45" alt="argocd logo"/>
+  <img src="https://raw.githubusercontent.com/fluxcd/website/refs/heads/main/assets/icons/logo.svg" height="45" alt="fluxcd logo"/>
+
 </div>
 
-<div class="flex-container">
-    <!-- CI/CD -->
-    <div class="section-box"  style="flex: 3;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="gitlab logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="35" alt="jenkins logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="35" alt="githubactions logo" />
-    </div>
-    <!-- Platforms -->
-    <div class="section-box"  style="flex: 4;">
-        <img src="https://raw.githubusercontent.com/hashicorp/vault/refs/heads/main/ui/public/vault-logo.svg" height="35" alt="vault logo" />
-        <img width="12" />
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/datadog-icon.svg" height="35" alt="datadog logo" />
-        <img width="12" />
-        <img src="https://www.svgrepo.com/download/353688/elasticsearch.svg" height="35" alt="elastic logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="35" alt="grafana logo" />
-    </div>
+<b>Cloud &amp; DevOps</b>
+
+<div style="display: flex;">
+
+<img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"/>
+
 </div>
-<br>
 
-**Development**
+<div style="display: flex;">
 
-<div class="flex-container">
-    <!-- Languages and Code -->
-    <div class="section-box"  style="flex: 4;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/rust/000000" height="35" alt="rust logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-    </div>
-    <!-- Operating Systems -->
-    <div class="section-box"  style="flex: 3;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="35" alt="nixos logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/debian/A81D33" height="35" alt="debian logo" />
-        <img width="12" />
-    </div>
+<img src="https://www.pulumi.com/logos/brand/avatar-on-black.svg" height="45" alt="pulumi logo"/>
+<img src="https://cdn.simpleicons.org/terraform/7B42BC" height="45" alt="terraform logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" alt="ansible logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="45" alt="nixos logo"/>
+
 </div>
-<br>
 
-**Web Servers and Databases**
+<div style="display: flex;">
 
-<div class="flex-container" >
-    <!-- Classic Web Servers -->
-    <div class="section-box">
-        <img src="https://cdn.simpleicons.org/caddy/1F88C0.svg" height="35" alt="caddy logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/apache/D22128" height="35" alt="apache logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo" />
-    </div>
-    <!-- Databases -->
-    <div class="section-box">
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/redis/DC382D" height="35" alt="redis logo" />
-    </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="45" alt="gitlab logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="45" alt="jenkins logo"/>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" alt="githubactions logo"/>
+
 </div>
-<br>
+
+<div style="display: flex;">
+
+<img src="https://raw.githubusercontent.com/hashicorp/vault/refs/heads/main/ui/public/vault-logo.svg" height="45" alt="vault logo"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/datadog-icon.svg" height="45" alt="datadog logo"/>
+<img src="https://www.svgrepo.com/download/353688/elasticsearch.svg" height="45" alt="elastic logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" height="45" alt="grafana logo"/>
+
+</div>
+
+<b>Development</b>
+
+<div style="display: flex;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"/>
+<img src="https://cdn.simpleicons.org/rust/000000" height="45" alt="rust logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
+
+</div>
+
+<div style="display: flex;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="45" alt="nixos logo"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"/>
+<img src="https://cdn.simpleicons.org/debian/A81D33" height="45" alt="debian logo"/>
+</div>
+
+<b>Web Servers and Databases</b>
+
+
+
+<div style="display: flex;">
+
+<img src="https://cdn.simpleicons.org/caddy/1F88C0.svg" height="45" alt="caddy logo"/>
+<img src="https://cdn.simpleicons.org/apache/D22128" height="45" alt="apache logo"/>
+<img src="https://cdn.simpleicons.org/nginx/009639" height="45" alt="nginx logo"/>
+
+</div>
+
+<div style="display: flex;">
+
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" alt="postgresql logo"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="mongodb logo"/>
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="45" alt="redis logo"/>
+
+</div>
+
 
 ## 🌐 Consulting Services
 
